@@ -1,6 +1,5 @@
-# Shifaul Islam 
-## 💻 Web Developer & 🤖 Virtual Assistant
-
+# Shifaul Islam 💻🤖
+## Web Developer & Virtual Assistant
 
 Hi there! I'm Shifaul, a skilled 💻 web developer and 🤖 virtual assistant with 5+ years of experience in the tech industry. 
 
@@ -25,12 +24,15 @@ My love for technology extends beyond just coding 💻. I have a keen interest i
 
 When I'm not busy coding or keeping up with the latest in cyber security, you can find me playing 🎮 video games, reading 📚 books, or capturing the beauty of the world through my lens 📷.
 
-So if you're looking for someone who can bring your ideas to life with both technical prowess 💻 and an eye for design 🎨, and can help keep your online presence secure 🔒, I'm your guy! You can check out my portfolio [here](https://khanshifaul.github.io) and connect with me on [LinkedIn](https://linkedin.com/in/khan-shifaul) 💼. You can also hire me on [Upwork](https://www.upwork.com/freelancers/~01795f2904ccd8520a) and [Fiverr](https://www.fiverr.com/khanshifaul).
+## 💡 Let's Bring Your Ideas to Life!
+Ready to work together and make your project a reality? Let's connect and discuss your project further! 🤗
 
-## Ready to work together? 
-Let's discuss your project further and bring your ideas to life! 💡
+### 🔍 Check out my Portfolio and Connect with me:
+- Portfolio: [here](https://khanshifaul.github.io) 
+- LinkedIn: [here](https://linkedin.com/in/khan-shifaul)
+- Upwork: [here](https://www.upwork.com/freelancers/~01795f2904ccd8520a) 
+- Fiverr: [here](https://www.fiverr.com/khanshifaul) 
 
 <p align="center"> 
   Visitor count: <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
 </p>
-
