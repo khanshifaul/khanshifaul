@@ -1,6 +1,6 @@
-# Shifaul Islam 💻🤖
-## Web Developer & Virtual Assistant
-
+## Shifaul Islam 💻🤖
+### Web Developer & Virtual Assistant
+<hr>
 Hi there! I'm Shifaul, a skilled 💻 web developer and 🤖 virtual assistant with 5+ years of experience in the tech industry. 
 
 As a web developer, I have a passion for creating visually stunning and intuitive user interfaces 💻. I have extensive experience building performant and scalable web applications using technologies like Vue.js, Nuxt.js, Tailwind CSS, Bootstrap, WordPress, and more 💻. Some of the services I offer as a web developer include:
@@ -28,10 +28,7 @@ When I'm not busy coding or keeping up with the latest in cyber security, you ca
 Ready to work together and make your project a reality? Let's connect and discuss your project further! 🤗
 
 ### 🔍 Check out my Portfolio and Connect with me:
-- Portfolio: [here](https://khanshifaul.github.io) 
-- LinkedIn: [here](https://linkedin.com/in/khan-shifaul)
-- Upwork: [here](https://www.upwork.com/freelancers/~01795f2904ccd8520a) 
-- Fiverr: [here](https://www.fiverr.com/khanshifaul) 
+### [<img src="https://th.bing.com/th/id/R.6a0139b9faedce579204beb4f441248e?rik=PFr1jmmqsYDVdA&pid=ImgRaw&r=0" width="15" height="15" alt="Portfolio"> Portfolio](https://khanshifaul.github.io) | [<img src="https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" width="15" height="15" alt="Portfolio"> LinkedIn](https://linkedin.com/in/khan-shifaul) | [<img src="https://www.upwork.com/favicon.ico" width="15" height="15" alt="Portfolio"> Upwork](https://www.upwork.com/freelancers/~01795f2904ccd8520a) | [<img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/favicon-32x32.8f21439.png" width="15" height="15" alt="Portfolio"> Fiverr](https://www.fiverr.com/khanshifaul) 
 
 <p align="center"> 
   Visitor count: <br> <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
