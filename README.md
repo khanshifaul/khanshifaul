@@ -34,5 +34,5 @@ Ready to work together and make your project a reality? Let's connect and discus
 - Fiverr: [here](https://www.fiverr.com/khanshifaul) 
 
 <p align="center"> 
-  Visitor count: <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
+  Visitor count: <br> <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
 </p>
