@@ -1,4 +1,6 @@
-## Shifaul Islam 💻🤖
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Shifaul+Islam;Backend+Software+Engineer;Built+Software+People+Actually+Use" alt="Typing SVG" />
+</div>
 
 ### Web Developer & Virtual Assistant
 
