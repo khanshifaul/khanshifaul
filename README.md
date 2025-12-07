@@ -58,7 +58,7 @@ Ready to work together and make your project a reality? Let's connect and discus
   </a>
 </p>
 
-[WakaTime Weekly Coding Activity Summary](https://wakatime.com/share/@khanshifaul/f242ab7d-b67f-4792-b948-19a267076ea2.svg)
+![WakaTime Coding Activity](https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png)
 <p align="center">
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
