@@ -58,7 +58,7 @@ Ready to work together and make your project a reality? Let's connect and discus
   </a>
 </p>
 
-
+<figure><embed src="https://wakatime.com/share/@khanshifaul/f242ab7d-b67f-4792-b948-19a267076ea2.svg"></embed></figure>
 <p align="center">
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
