@@ -57,8 +57,10 @@ Ready to work together and make your project a reality? Let's connect and discus
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
 </p>
-
+<p align="center">
 ![WakaTime Coding Activity](https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png)
+    <img src="[https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png" alt="wakatime.com">
+</p>
 <p align="center">
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/khanshifaul/count.svg" />
