@@ -58,7 +58,7 @@ Ready to work together and make your project a reality? Let's connect and discus
   </a>
 </p>
 <p align="center">
-    <img src="[https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png" alt="wakatime.com">
+    <img src="https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png" alt="wakatime.com">
 </p>
 <p align="center">
   Visitor count:<br>
