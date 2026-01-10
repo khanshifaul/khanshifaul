@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C7D47B&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Shifaul+Islam;Full+Stack+Software+Engineer;Specializing+in+Next.js+%26+NestJS" alt="Typing SVG" />
 </div>
 
-### 🚀 Full Stack Web Developer & Software Architect
+### 🚀 Full Stack Web Developer
 Dedicated and results-driven Software Engineer with 3+ years of experience building and scaling user-centric web applications. Currently building high-performance SaaS and E-commerce solutions at **ExpressITbd**.
 
 ---
