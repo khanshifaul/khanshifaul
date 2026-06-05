@@ -18,12 +18,6 @@ Dedicated and results-driven Software Engineer with 3+ years of experience build
 | **AI & Automation** | Langchain, Hugging Face, Selenium, BeautifulSoup, Python |
 | **Design** | Figma, Adobe Illustrator, Webflow |
 
----
-
-### 📊 WakaTime Stats
-<p align="center">
-    <img src="https://wakatime.com/share/@khanshifaul/6e0c9962-6d04-4bc4-96bd-97356161f39d.png" alt="wakatime" />
-</p>
 
 ---
 
