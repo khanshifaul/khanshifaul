@@ -23,7 +23,7 @@ Dedicated and results-driven Software Engineer with 3+ years of experience build
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://khanshifaul.vercel.app">
+  <a href="https://shifaul.dev">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/khan-shifaul">
