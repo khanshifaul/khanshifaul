@@ -48,8 +48,8 @@ I'm **Md Shifaul Islam** — a Full Stack Engineer & AI Engineer with **3+ years
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khanshifaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C7D47B&icon_color=C7D47B&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanshifaul&layout=compact&hide_border=true&bg_color=0D1117&title_color=C7D47B&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khanshifaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C7D47B&icon_color=C7D47B&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khanshifaul&layout=compact&hide_border=true&bg_color=0D1117&title_color=C7D47B&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=khanshifaul&hide_border=true&background=0D1117&ring=C7D47B&fire=C7D47B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C7D47B&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
@@ -86,9 +86,4 @@ I'm **Md Shifaul Islam** — a Full Stack Engineer & AI Engineer with **3+ years
   <a href="https://www.upwork.com/freelancers/~01795f2904ccd8520a">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
-</p>
-
-<p align="center">
-  Visitor count:<br>
-  <img src="https://backend.shifaul.dev/visitor-count/count.svg" />
 </p>
